@@ -15,4 +15,8 @@ public class MainActivity extends AppCompatActivity {
     private void whowLog(){
         System.out.println("版本222222222");
     }
+
+    private void thisIsMyTwoBranch(){
+        System.out.println("分动测试");
+    }
 }
