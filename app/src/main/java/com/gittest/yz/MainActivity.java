@@ -19,4 +19,8 @@ public class MainActivity extends AppCompatActivity {
     private void thisIsMyTwoBranch(){
         System.out.println("分动测试");
     }
+
+    private void thisIsMyTwoBranch2222222222(){
+        System.out.println("分支测试22222222222222");
+    }
 }
