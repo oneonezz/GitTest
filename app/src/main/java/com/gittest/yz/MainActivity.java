@@ -11,4 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("版本11111111111111111111");
     }
+
+    private void whowLog(){
+        System.out.println("版本222222222");
+    }
 }
