@@ -19,6 +19,4 @@ public class MainActivity extends AppCompatActivity {
     private void version3333(){
         System.out.println("版本3333333333");
     }
-
-
 }
